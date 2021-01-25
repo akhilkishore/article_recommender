@@ -1,0 +1,13 @@
+import requests
+pip install search-engine-parser
+
+pip install -U sentence-transformers
+sudo apt-get install libomp-dev
+
+pip install spacy-transformers
+pip install "transformers==3.1.0"
+
+pip3 install gensim
+
+pip install textblob
+python -m textblob.download_corpora
