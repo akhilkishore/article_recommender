@@ -1,4 +1,3 @@
-# assesment-test
 
 Running Instructions
 ------------------
